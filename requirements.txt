@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+pdfplumber
+pandas
+tqdm
+lxml
+newspaper3k
