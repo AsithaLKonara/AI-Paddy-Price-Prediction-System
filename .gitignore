@@ -19,6 +19,3 @@ Thumbs.db
 venv/
 env/
 .env
-
-# Project specific
-*.pdf
