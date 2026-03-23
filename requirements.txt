@@ -5,3 +5,7 @@ pandas
 tqdm
 lxml
 newspaper3k
+xgboost
+scikit-learn
+matplotlib
+seaborn

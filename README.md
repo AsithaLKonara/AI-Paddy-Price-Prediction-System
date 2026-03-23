@@ -30,8 +30,8 @@ This project focuses on bridging the gap between raw agricultural data and actio
 
 ## 🚦 Current Progress
 
-- [x] **Phase 1-3**: Data Collection Pipeline & Architecture (Completed)
-- [/] **Phase 4-5**: Data Cleaning & Feature Engineering (In Progress)
+- [x] **Phase 1-4**: Data Collection, Architecture & Cleaning (Completed)
+- [/] **Phase 5**: Feature Engineering (In Progress)
 - [ ] **Phase 6+**: Model Development & Dashboard (Pending)
 
 ## 📦 Installation
